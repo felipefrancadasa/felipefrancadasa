@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋</h1>
-<h3 align="center">Felipe França - Analista de People Analytics @ Dasa</h3>
+<h3 align="center">Me chamo Felipe e sou Analista de People Analytics @ Dasa</h3>
 
 <h3 align="left">Minhas redes:</h3>
 <p align="left">
